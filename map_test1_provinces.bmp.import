@@ -1,0 +1,15 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+path="res://.import/map_test1_provinces.bmp-b7500f7505ffd30902e5adb7187528eb.res"
+
+[deps]
+
+source_file="res://map_test1_provinces.bmp"
+dest_files=[ "res://.import/map_test1_provinces.bmp-b7500f7505ffd30902e5adb7187528eb.res" ]
+
+[params]
+
+create_from=0
+threshold=0.5
